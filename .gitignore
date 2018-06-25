@@ -1,0 +1,9 @@
+\.idea/
+__pycache__/
+model/
+todo\.txt
+new_data/
+comparisons/
+sentdex_lab/
+tests/
+
